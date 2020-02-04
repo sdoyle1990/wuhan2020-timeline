@@ -405,7 +405,8 @@
 * 晚间，《财新》杂志微信公众号发布[统计数字之外的人：他们死于“普通肺炎”？ ](https://github.com/Pratitya/wuhan2020-timeline/issues/46#issue-558628515)，表明“目前人们所能看到的确诊、死亡病例数字，并不能完全反映这次疫情的全貌”。<br>
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
 * [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
-* [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
+* [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)
+* 澳大利亚总理宣布从二月1日起，禁止从中国大陆入境的旅客，除澳洲本国公民、永居绿卡持有者以外。原文：Speaking at a press conference, Australian prime minister Scott Morrison announced that no one travelling from mainland China would be allowed into Australia unless they are Australian citizens or residents. Entry will be denied to anyone who has left or transmited through mainland China from 1 February. (https://www.skynews.com.au/details/_6128821462001)。<br>
 
 ## 2020年2月2日
 【武汉-湖北】<br>
